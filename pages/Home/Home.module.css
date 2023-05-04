@@ -1,0 +1,66 @@
+h1 {
+  padding-left: 2em;
+  font-size: 60px;
+}
+.displayFlex {
+  display: flex;
+}
+
+.header {
+  margin-top: 5em;
+}
+.header p {
+  font-weight: bold;
+}
+
+.highlightedText {
+  background-color: #98ecff51;
+}
+
+.redBlock {
+  background-color: #fcd6d0;
+  margin-top: 5em;
+  width: 90%;
+  height: 6em;
+  margin-left: 5em;
+  border-left: 0.8em solid #ff2200;
+  padding: 1.5em 0 0 1.5em;
+  font-size: 18px;
+}
+
+.paddingTop {
+  padding-top: 0.6em;
+}
+
+.content {
+  width: 80%;
+  margin-left: 8.5em;
+}
+
+.content p {
+  margin-top: 3em;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.boldText {
+  font-weight: bold;
+}
+
+hr {
+  margin: 3em 0 2em 0;
+}
+
+.contentUl {
+  font-size: 18px;
+  width: 12em;
+  list-style: disc;
+}
+.contentUl li {
+  margin-top: 0.3em;
+}
+
+h2 {
+  margin-top: 2em;
+  font-size: 40px;
+}

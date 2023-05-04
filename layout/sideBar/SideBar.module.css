@@ -1,0 +1,28 @@
+.sideBar {
+  background-color: #f7f7f7;
+  height: 250em;
+  width: 20em;
+}
+
+.sideBarDiv {
+  margin: 7em 0 0 3em;
+}
+
+p {
+  margin: 2em 0 2em 0;
+  font-weight: bold;
+  color: #6b7387;
+}
+
+ul {
+  list-style: none;
+  font-size: 17px;
+}
+
+ul li {
+  margin-top: 0.7em;
+}
+
+.textBold {
+  font-weight: bold;
+}
